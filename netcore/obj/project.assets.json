@@ -12586,11 +12586,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workstation\\netcore\\netcore\\netcore.csproj",
+      "projectUniqueName": "D:\\netcore\\netcore\\netcore.csproj",
       "projectName": "netcore",
-      "projectPath": "D:\\workstation\\netcore\\netcore\\netcore.csproj",
+      "projectPath": "D:\\netcore\\netcore\\netcore.csproj",
       "packagesPath": "C:\\Users\\y9876\\.nuget\\packages\\",
-      "outputPath": "D:\\workstation\\netcore\\netcore\\obj\\",
+      "outputPath": "D:\\netcore\\netcore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
